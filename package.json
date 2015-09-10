@@ -1,0 +1,19 @@
+{
+    "name": "v-mvc",
+    "version": "0.1.0",
+    "description": "Simple browser JS framework, depends on v-utils",
+    "repository": {
+        "type": "git",
+        "url": "git://github.com/volter9/v-mvc.git"
+    },
+    "dependencies": {
+        "v-utils": ""
+    },
+    "keywords": [
+        "mvc",
+        "simple",
+        "framework"
+    ],
+    "license": "MIT",
+    "author": "volter9"
+}
